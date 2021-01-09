@@ -25,12 +25,14 @@ header {
 header nav {
     display: flex;
     justify-content: flex-end;
+    align-items: center;
 }
 
 header nav .nav-right {
     width: 25rem;
     height: auto;
     display: flex;
+    align-items: center;
     list-style: none;
 }
 
